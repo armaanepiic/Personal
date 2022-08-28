@@ -99,33 +99,3 @@ int main()
 
     return 0;
 }
-// -----pair declaration-----
-
-// pair<int , string> p ;
-// p = mp(10 , "arman");
-// p = {10 , "nusrat"};
-// cout << p.ff << " " << p.ss << endl;
-
-// ------pair copying------
-
-// pair<int , string>p;
-// p = mp(20 , "arman");
-// pair<int,string>&p1 = p;
-// p1.ff = 30;
-// cout << p.ff << " " << p.ss << endl;
-
-//------array of pair------
-
-// pair<int , int> p[3];
-// for (int i = 0; i < 3; ++i)
-// {
-//     // int x , y;
-//     // cin >> x >> y;
-//     // p[i] = mp(x, y);
-//     cin >> p[i].ff >> p[i].ss;
-// }
-// //swap(p[0],p[2]);
-// for (int i = 0; i < 3; ++i)
-// {
-//     cout << p[i].ff << " " << p[i].ss << endl;
-// }
