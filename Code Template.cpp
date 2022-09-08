@@ -1,5 +1,3 @@
-<snippet>
-	<content><![CDATA[
 //Bismillahir rahmanir rahim
 //Arman Hossain C193033
 //Programming is nothing but an addiction.
@@ -69,9 +67,3 @@ int main()
 
     return 0;
 }
-]]></content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>go</tabTrigger>
-	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<scope>source.c++</scope>
-</snippet>
